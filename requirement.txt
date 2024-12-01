@@ -1,0 +1,13 @@
+langchain-huggingface
+langchain
+langchain_community
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
