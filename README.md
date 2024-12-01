@@ -14,14 +14,14 @@ BlogGenAI is an interactive web app designed to help you create high-quality blo
 ---
 
 ## Prerequisites
--Python 3.8 or higher
--A Hugging Face API token
+- **Python 3.8 or higher**
+- **A Hugging Face API token**
 
 ## Clone the Repository:
--- git clone https://github.com/pallabm22/BlogGenAI.git
+git clone https://github.com/pallabm22/BlogGenAI.git
 
 ## Install Dependencies:
--- pip install -r requirements.txt
+pip install -r requirements.txt
 
 ## Run the Streamlit App:
 streamlit run mainBlog.py
