@@ -13,30 +13,15 @@ BlogGenAI is an interactive web app designed to help you create high-quality blo
 
 ---
 
-## 📂 Project Structure  
-
-BlogGenAI/
-│
-├── app.py                # Main Streamlit app file
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-├── HuggingFaceAPI.py     # Contains the Hugging Face API key
-└── .gitignore            # Files and directories to ignore in Git
-
 ## Prerequisites
 Python 3.8 or higher
 A Hugging Face API token
 
 ## Clone the Repository:
-
+-- git clone 
 
 ## Install Dependencies:
 -- pip install -r requirements.txt
-
-## Set Up the Hugging Face API Key:
-Create a file named HuggingFaceAPI.py with the following content:
-
-access_key = "your_huggingface_api_key_here"
 
 ## Run the Streamlit App:
 
