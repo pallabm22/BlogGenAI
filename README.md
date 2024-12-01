@@ -17,8 +17,10 @@ BlogGenAI is an interactive web app designed to help you create high-quality blo
 - **Python 3.8 or higher**
 - **A Hugging Face API token**
 
-## Clone the Repository:
+### 1. Clone the Repository  
+```bash
 git clone https://github.com/pallabm22/BlogGenAI.git
+cd BlogGenAI
 
 ## Install Dependencies:
 pip install -r requirements.txt
